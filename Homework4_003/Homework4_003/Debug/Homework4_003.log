@@ -1,0 +1,3 @@
+﻿  RockPaperScissors_001.cpp
+c:\users\kmaughan\documents\visual studio 2013\projects\homework4_003\homework4_003\rockpaperscissors_001.cpp(139): warning C4715: 'getPlayerChoice' : not all control paths return a value
+  Homework4_003.vcxproj -> C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\Homework4_003\Debug\Homework4_003.exe
